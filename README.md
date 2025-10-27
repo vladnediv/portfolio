@@ -9,7 +9,7 @@ PickPlace is an online marketplace platform where users can buy and sell product
 
 
 **🧑‍💻 Scope of Work**
-- Developed the authentication API(registration, login, roles & permissions)
+- Developed the authentication API (registration, login, roles & permissions)
 - Built the business logic API (products, orders & payments management)
 - Designed and implemented the overall architecture using ASP.NET Core and EF Core
 - Integrated secure access using JWT and OAuth2
