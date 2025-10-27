@@ -1,9 +1,9 @@
 # Projects
 
----
+
 ## 🛍️ PickPlace Marketplace
 
-PickPlace is an online marketplace platform where users can buy and sell products. The system provides separate areas for regular users, shop owners, and administrators. It includes secure user authentication, role-based access, and a flexible structure that can be expanded with new business features in the future.
+PickPlace is an **online marketplace platform** where users can buy and sell products. The system provides separate areas for **regular users**, **shop owners**, and **administrators**. It includes secure user authentication, role-based access, and a flexible structure that can be expanded with new business features in the future.
 
 # 
 
@@ -16,8 +16,6 @@ PickPlace is an online marketplace platform where users can buy and sell product
 
 # 
 
-<br>
-
 **🕹️ See the API's here:**
 
 <a href="github.com/vladnediv/MarketplaceAuthAPI">Authentication API</a>
@@ -25,10 +23,6 @@ PickPlace is an online marketplace platform where users can buy and sell product
 <a href="github.com/vladnediv/MarketplaceAuthAPI">Business logic API</a>
 
 # 
-
-<br>
-
-
 
 **📚 Tech-Stack**
 
