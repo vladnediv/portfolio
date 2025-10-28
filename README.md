@@ -20,7 +20,7 @@ PickPlace is an **online marketplace platform** where users can buy and sell pro
 
 <a href="https://github.com/vladnediv/MarketplaceAuthAPI">Authentication API</a>
 
-<a href="https://github.com/vladnediv/MarketplaceAuthAPI">Business logic API</a>
+<a href="https://github.com/vladnediv/MarketplaceCoreAPI">Business logic API</a>
 
 # 
 
