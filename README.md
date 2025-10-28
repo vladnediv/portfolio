@@ -8,8 +8,8 @@ PickPlace is an **online marketplace platform** where users can buy and sell pro
 # 
 
 **🧑‍💻 Scope of Work**
-- Developed the <a href="www.github.com/vladnediv/MarketplaceAuthAPI">authentication API</a> (registration, login, roles & permissions)
-- Developed the <a href="www.github.com/vladnediv/MarketplaceCoreAPI">business logic API</a> (products, orders & payments management)
+- Developed the <a href="https://github.com/vladnediv/MarketplaceAuthAPI">authentication API</a> (registration, login, roles & permissions)
+- Developed the <a href="https://github.com/vladnediv/MarketplaceCoreAPI">business logic API</a> (products, orders & payments management)
 - Designed and implemented the overall architecture using ASP.NET Core and EF Core
 - Integrated secure access using JWT and OAuth2
 - Created API documentation with Swagger
@@ -18,9 +18,9 @@ PickPlace is an **online marketplace platform** where users can buy and sell pro
 
 **🕹️ See the API's here:**
 
-<a href="www.github.com/vladnediv/MarketplaceAuthAPI">Authentication API</a>
+<a href="https://github.com/vladnediv/MarketplaceAuthAPI">Authentication API</a>
 
-<a href="www.github.com/vladnediv/MarketplaceAuthAPI">Business logic API</a>
+<a href="https://github.com/vladnediv/MarketplaceAuthAPI">Business logic API</a>
 
 # 
 
